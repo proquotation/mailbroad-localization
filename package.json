@@ -1,0 +1,17 @@
+{
+  "name": "mailbroad-localization",
+  "license": "MIT",
+  "description": "Mailbroad editor",
+  "version": "1.0.0",
+  "author": "mailbroad-sanjay",
+  "keywords": [],
+  "files": [
+    "locales"
+  ],
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,jsx,ts,tsx,json,css,scss,md}\""
+  },
+  "devDependencies": {
+    "prettier": "^2.8.4"
+  }
+}
